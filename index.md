@@ -26,3 +26,9 @@
 git add .
 git commit -m "代码"
 git push
+
+测试冲突
+
+应该先 
+
+git pull
