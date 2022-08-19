@@ -24,11 +24,10 @@
 
 上传测试
 
-#### git add .
+git add .
 
 git commit -m "代码"
 
 git push
 
 
-wwwww 测试冲突wwwwww
