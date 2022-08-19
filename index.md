@@ -23,3 +23,6 @@
 
 
 上传测试
+git add .
+git commit -m "代码"
+git push
